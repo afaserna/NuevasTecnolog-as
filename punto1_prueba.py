@@ -12,7 +12,7 @@ Valor_extra = (Valor_hora * 0.35)+Valor_hora
 if Nro_hijos >= 3:
     bonificacion = (Valor_hora)*(Nro_hijos*10)
 else:
-    bonificacion = Valor_hora (Nro_hijos*10)
+    bonificacion = Valor_hora (Nro_hijos*5)
     
     
 if Horas_trabajadas > 47:
