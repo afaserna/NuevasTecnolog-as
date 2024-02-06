@@ -8,5 +8,8 @@ Valor_extra = (valor_hora * 0.35)+ valor_hora
 total_Extras = Valor_extra * numeroH_Extras
 
 
+h_trabajadas = int (input ("ingrese el salario: "))
+neto_pagar = (valor_hora+Valor_extra)
+
 
 
